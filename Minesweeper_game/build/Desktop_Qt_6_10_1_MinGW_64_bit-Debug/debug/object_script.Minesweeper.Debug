@@ -1,0 +1,12 @@
+debug/aboutwindow.o
+debug/field.o
+debug/game.o
+debug/main.o
+debug/resultwindow.o
+debug/tile.o
+debug/qrc_images.o
+debug/moc_aboutwindow.o
+debug/moc_field.o
+debug/moc_game.o
+debug/moc_resultwindow.o
+debug/moc_tile.o

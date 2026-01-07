@@ -1,0 +1,12 @@
+release/aboutwindow.o
+release/field.o
+release/game.o
+release/main.o
+release/resultwindow.o
+release/tile.o
+release/qrc_images.o
+release/moc_aboutwindow.o
+release/moc_field.o
+release/moc_game.o
+release/moc_resultwindow.o
+release/moc_tile.o
