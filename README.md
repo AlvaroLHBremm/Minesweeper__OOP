@@ -1,5 +1,5 @@
-# Campo-Minado QTcreator
+  # Campo-Minado QTcreator
 
 Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator
 
-![alt text](https://github.com/[username]/[AlvaroLHBremm]/blob/[branch]/Campo minado.jpg?raw=true)
+![image alt](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator/blob/main/Campo%20minado.png?raw=true)
